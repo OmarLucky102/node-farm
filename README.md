@@ -74,9 +74,9 @@ node-farm/
 ## 🛠️ Installation
 
   1. **Clone the repository:**
-  ```bash
-  git clone https://github.com/your-username/node-farm.git
-```
+   ```bash
+   git clone https://github.com/your-username/node-farm.git
+   ```
 3. **Navigate into the project folder:**
    ```bash
    cd node-farm
