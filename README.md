@@ -72,6 +72,23 @@ This project showcases key Node.js concepts and techniques, including:
    git clone https://github.com/your-username/node-farm.git
 Navigate into the project directory:
 
-```bash
-  cd node-farm
+  ```bash
+    cd node-farm
 
+Install dependencies:
+```bash
+    npm install
+
+Fix PowerShell error (if needed):
+If you encounter the following error:
+
+csharp
+Copy
+Edit
+PS1 cannot be loaded because running scripts is disabled on this system
+Run this command in your terminal:
+
+bash
+Copy
+Edit
+set-ExecutionPolicy RemoteSigned -Scope CurrentUser
