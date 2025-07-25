@@ -54,21 +54,28 @@ This project showcases key Node.js concepts and techniques, including:
 
 ## 📂 Project Structure
 ```pgsql
-node-farm/
-│
+starter/
 ├── dev-data/
 │   └── data.json
-│
-├── modules/
+├── Modules/
 │   └── replaceTemplate.js
-│
 ├── templates/
-│   ├── template-card.html
+│   ├── template-cards.html
 │   ├── template-overview.html
 │   └── template-product.html
-│
+├── txt/
+│   ├── append.txt
+│   ├── final.txt
+│   ├── input.txt
+│   ├── output.txt
+│   ├── read-this.txt
+│   └── start.txt
+├── .prettierrc
 ├── index.js
-└── package.json
+├── package-lock.json
+├── package.json
+├── README.md
+└── tempCodeRunnerFile.js
 ```
 
 ## 🛠️ Installation
