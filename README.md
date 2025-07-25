@@ -72,3 +72,6 @@ This project showcases key Node.js concepts and techniques, including:
    git clone https://github.com/your-username/node-farm.git
 Navigate into the project directory:
 
+```bash
+  cd node-farm
+
