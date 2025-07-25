@@ -74,15 +74,23 @@ node-farm/
 ## 🛠️ Installation
 
 1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/node-farm.git
-Navigate into the project directory:
-
   ```bash
-    cd node-farm```
+git clone https://github.com/your-username/node-farm.git
+```
+2. **Navigate into the project folder:**
+   ```bash
+   cd node-farm
+   ```
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+5. **If you face this PowerShell security error:**
+     "PS1 cannot be loaded because running scripts is disabled..."
+  Run this command:
+   ```bash
+   set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+   ```
+## 💻 Running the Project
 
-Install dependencies:
-```bash
-    npm install
-
+  1. **Clone the repository:**
