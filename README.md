@@ -93,4 +93,12 @@ node-farm/
    ```
 ## 💻 Running the Project
 
-  1. **Clone the repository:**
+  1. **Start the server:**
+  ```bash
+node index.js
+```
+  2. **Visit in your browser:**
+     ```bash
+     http://127.0.0.1:8000
+     ```
+     
