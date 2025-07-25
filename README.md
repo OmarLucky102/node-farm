@@ -52,18 +52,7 @@ This project showcases key Node.js concepts and techniques, including:
 
 ---
 
-## 📂 Project Structure
-├── dev-data/
-│ └── data.json # JSON data with products
-├── modules/
-│ └── replaceTemplate.js # Custom module for HTML templating
-├── templates/
-│ ├── template-overview.html # HTML for the overview page
-│ ├── template-card.html # HTML for individual product cards
-│ └── template-product.html # HTML for the product detail page
-├── index.js # Main server file
-├── package.json # Project metadata and dependencies
-└── README.md # Project documentation
+<pre lang="markdown"> ```bash ## 📂 Project Structure ├── dev-data/ │ └── data.json # JSON data with products ├── modules/ │ └── replaceTemplate.js # Custom module for HTML templating ├── templates/ │ ├── template-overview.html # HTML for the overview page │ ├── template-card.html # HTML for individual product cards │ └── template-product.html # HTML for the product detail page ├── index.js # Main server file ├── package.json # Project metadata and dependencies └── README.md # Project documentation ``` </pre>
 ## 🛠️ Installation
 
 1. **Clone the repository:**
