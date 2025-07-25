@@ -53,11 +53,23 @@ This project showcases key Node.js concepts and techniques, including:
 ---
 
 ## 📂 Project Structure
-
-**dev-data/** → `data.json`  
-**modules/** → `replaceTemplate.js`  
-**templates/** → `template-overview.html`, `template-card.html`, `template-product.html`  
-**index.js** | **package.json** | **README.md**
+```pgsql
+node-farm/
+│
+├── dev-data/
+│   └── data.json
+│
+├── modules/
+│   └── replaceTemplate.js
+│
+├── templates/
+│   ├── template-card.html
+│   ├── template-overview.html
+│   └── template-product.html
+│
+├── index.js
+└── package.json
+```
 
 ## 🛠️ Installation
 
